@@ -1,6 +1,6 @@
 # AttrDefaultable
 
-TODO: Write a gem description
+Easily add attributes with default values to your classes.
 
 ## Installation
 
@@ -18,7 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+class Example
+  extend AttrDefaultable
+  attr_defaultable :foo, -> { 'bar' }
+end
+```
+
+This will create a getter/setter pair for your variable `foo`. If the setter is not used before the getter
+the proc given will be called and it's result used to set the value of `foo`.
+
+Very useful for creating dependency definitions with protected default values that are evaluated just in time.
 
 ## Contributing
 
