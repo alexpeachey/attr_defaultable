@@ -1,3 +1,6 @@
+[![Circle CI](https://circleci.com/gh/Originate/attr_defaultable.svg?style=svg)](https://circleci.com/gh/Originate/attr_defaultable)
+[![Coverage Status](https://coveralls.io/repos/Originate/attr_defaultable/badge.svg?branch=master&service=github)](https://coveralls.io/github/Originate/attr_defaultable?branch=master)
+
 # AttrDefaultable
 
 Easily add attributes with default values to your classes.
