@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/Originate/attr_defaultable.svg?style=svg)](https://circleci.com/gh/Originate/attr_defaultable)
+[![Circle CI](https://circleci.com/gh/Originate/attr_defaultable.svg?style=shield)](https://circleci.com/gh/Originate/attr_defaultable)
 [![Coverage Status](https://coveralls.io/repos/Originate/attr_defaultable/badge.svg?branch=master&service=github)](https://coveralls.io/github/Originate/attr_defaultable?branch=master)
 [![Code Climate](https://codeclimate.com/github/Originate/attr_defaultable/badges/gpa.svg)](https://codeclimate.com/github/Originate/attr_defaultable)
 
